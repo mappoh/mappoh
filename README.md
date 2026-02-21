@@ -14,10 +14,9 @@ I am a researcher focusing on atomistic simulations, materials modeling, and mic
 
 ### GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mappoh&show_icons=false&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Michael's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mappoh&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</div>
+![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mappoh&show_icons=false&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mappoh&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9)
 
 ### Let's Connect
 
