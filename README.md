@@ -3,7 +3,6 @@
 I am a PhD researcher focusing on atomistic simulations, materials modeling, and microkinetic modeling to solve complex chemical problems. Welcome to my GitHub!
 
 ### About Me
-
 * **Currently working on:** Computational catalysis using DFT/AIMD and building out my [personal portfolio](https://mappoh.vercel.app).
 * **Tech & Tools:** Python, Jupyter Notebooks, and various atomistic simulation environments.
 * **Affiliation:** Proud member of the [Schneider Group](https://github.com/wfschneidergroup) at Notre Dame.
