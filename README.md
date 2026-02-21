@@ -6,7 +6,6 @@ I am a PhD researcher focusing on atomistic simulations, materials modeling, and
 
 * **Currently working on:** Computational catalysis using DFT/AIMD and building out my [personal portfolio](https://mappoh.vercel.app).
 * **Tech & Tools:** Python, Jupyter Notebooks, and various atomistic simulation environments.
-* **Research Focus:** Uncovering mechanisms in catalytic systems through data-driven computational methods.
 * **Affiliation:** Proud member of the [Schneider Group](https://github.com/wfschneidergroup) at Notre Dame.
 
 ### GitHub Stats
