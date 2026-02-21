@@ -1,6 +1,6 @@
 # Hi there, I'm Michael Appoh
 
-I am a phd researcher focusing on atomistic simulations, materials modeling, and microkinetic modeling to solve complex chemical problems. Welcome to my GitHub!
+I am a Phd researcher focusing on atomistic simulations, materials modeling, and microkinetic modeling to solve complex chemical problems. Welcome to my GitHub!
 
 ### About Me
 
