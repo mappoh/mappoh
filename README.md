@@ -1,8 +1,5 @@
 # Hi there, I'm Michael Appoh
 
-**Chemistry PhD Candidate | Computational Catalysis | CISTAR Graduate Fellow**
-*University of Notre Dame (Notre Dame, IN)*
-
 I am a researcher focusing on atomistic simulations, materials modeling, and microkinetic modeling to solve complex chemical problems. Welcome to my GitHub!
 
 ### About Me
